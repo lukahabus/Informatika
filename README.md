@@ -1,4 +1,4 @@
 # Informatika
 
-Primjer programa za učenje programiranja.
+Primjer za učenje programiranja u Pythonu.
 Namijenjeno srednjoškolcima.
